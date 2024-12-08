@@ -1,0 +1,25 @@
+ServerEvents.tags("item",event=>{
+    event.add('create:upright_on_belt',[
+        //乐事系列
+        'farmersrespite:coffee_cake',
+        'mynethersdelight:magma_cake',
+        'ends_delight:dragon_leg_with_sauce_block',
+        'moredelight:simple_hamburger',
+        'moredelight:hamburger_with_egg',
+        'moredelight:loaded_hamburger',
+        'moredelight:chicken_sandwich_with_egg_and_tomato',
+        'moredelight:steak_sandwich',
+        'moredelight:porkchop_sandwich',
+        'moredelight:egg_with_bacon_sandwich',
+        'moredelight:tomato_sandwich',
+        'corn_delight:nachos_block',
+        'dumplings_delight:dumpling_medley',
+        //机械动力:齿轮与麦穗
+        '#ratatouille:mold',
+        'ratatouille:chocolate_mold_filled',
+        'ratatouille:chocolate_mold_solid',
+        'ratatouille:cake_mold_filled',
+        'ratatouille:cake_mold_baked',
+        'ratatouille:cake_base'
+    ])
+})

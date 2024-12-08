@@ -1,0 +1,9 @@
+{
+    "item.logic.silicon":"硅",
+    "item.logic.silicon_plate":"硅板",
+    "item.logic.lithographic_silicon_plate":"光刻硅板",
+    "item.logic.incomplete_basic_control_circuit":"基础控制电路（半成品）",
+    "item.logic.incomplete_advanced_control_circuit":"高级控制电路（半成品）",
+    "item.logic.incomplete_elite_control_circuit":"精英控制电路（半成品）",
+    "item.logic.incomplete_ultimate_control_circuit":"终极控制电路（半成品）"
+}
